@@ -1,9 +1,5 @@
 package com.companyname.bank;
 
-/**
- * Hello world!
- *
- */
 public class home
 {
     public static void main( String[] args )
